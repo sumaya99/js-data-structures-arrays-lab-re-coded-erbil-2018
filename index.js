@@ -1,4 +1,5 @@
 // Write your solution here!
+var drivers = 
 function destructivelyAppendDriver (name) {
   drivers.push(name);
 }
